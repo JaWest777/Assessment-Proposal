@@ -1,7 +1,25 @@
-# Software Proposal Form - example
+# Software Proposal Form - Jake West UP2110884
 
-- Your name: Jake West
-- Your project title: Echo Duel
+# Inital Project Ideas
+
+-  3D Spacial Audio Processor
+-  Real-Time Audio Effects Controller
+-  Voice Transformation Tool
+-  Instrumental Synth
+-  Live Audio Looper
+-  Voice Changer
+
+# Project Ideas in 1 Sentence:
+
+
+3D Spatial Audio Processor—I will create a system that can play sounds according to where they are in a 3D space. For example, Conflicting sounds will appear when the mouse is on the opposite side of the screen. I would then add more detailed scenarios and parameters to change the sound.
+-  Real-Time Audio Effects Controller - This will act like a synthesizer where the user can input files or speak in real-time and will be able to apply effects and filters to experiment with audio. 
+-  Voice Transformation Tool - Similar to the last example this would involve a live voice input and the user can use an interface to manipulate and record their voice.
+-  Instrumental Synth - I will create an interface that would allow the user to control different instruments and coordinate parameters which can then be applied to the sound.
+-  Live Audio Looper - This would be a tool that would either take audio files or live feed audio and would allow the user to create a sound track by looping the same track.
+
+
+
 
 # Describe the theme or key idea behind your project
 A feedback delay with controllable filters which changes its parameters in real-time to challenge the performer.
