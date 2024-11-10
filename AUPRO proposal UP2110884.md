@@ -1,6 +1,6 @@
 # Software Proposal Form - example
 
-- Your name: Nigel Tufnel
+- Your name: Jake West
 - Your project title: Echo Duel
 
 # Describe the theme or key idea behind your project
